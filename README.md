@@ -13,7 +13,7 @@ Soy estudiante de 3er año de la Tecnicatura Universitaria en Procesamiento y Ex
 
 ## 📂 Proyectos Destacados
 
-- [📚 Análisis de búsquedas en el Sistem Koha](https://github.com/Ayrton-Milessi/Practica-Academica)
+- [📚 Análisis de búsquedas en el Sistem Koha](https://github.com/Ayrton-Milessi/Practica-Academica)  
   _Análisis de las búsquedas en el catálogo en línea de la Biblioteca de la FIUNER._  
 
 - [📊 Exploración de Datos Multivariados](https://github.com/Ayrton-Milessi/VICTORIA-Exploracion-de-Datos-Multivariados)  
