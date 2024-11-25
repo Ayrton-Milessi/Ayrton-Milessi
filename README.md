@@ -27,6 +27,6 @@ Soy estudiante de 3er año de la Tecnicatura Universitaria en Procesamiento y Ex
 ## 📫 Me puedes encontrar en:
 
 - [LinkedIn](https://www.linkedin.com/in/ayrton-milessi-90ab91327/)  
-- [Correo Electrónico](mailto:ayrton@example.com)  
+- [Correo Electrónico](mailto:ayrton4210@gmail.com)  
 
 ¡Gracias por visitar mi perfil! 😊
