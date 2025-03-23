@@ -20,7 +20,7 @@ Soy estudiante de 3er año de la Tecnicatura Universitaria en Procesamiento y Ex
   _Análisis de datos del sistema educativo en Victoria, Entre Ríos._  
 
 - [🏎️ Fórmula 1: Análisis de Datos de Fórmula 1](https://github.com/Ayrton-Milessi/Formula-1)  
-  _Exploración de datos en la temporada 2024._  
+  _Exploración de datos en la temporada 2024 y 2025._  
 
 ---
 
