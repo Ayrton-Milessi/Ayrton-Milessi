@@ -1,13 +1,13 @@
 # 👋 ¡Hola, soy Ayrton Milessi!
 
-Soy estudiante de 3er año de la Tecnicatura Universitaria en Procesamiento y Explotación de Datos. Apasionado por el análisis de datos, machine learning y la visualización de la información, me gusta formar parte de proyectos interesantes y desafiantes. Siempre estoy buscando aprender nuevas técnicas y herramientas para crecer como profesional.
+Soy estudiante de 3er año de la Tecnicatura Universitaria en Procesamiento y Explotación de Datos. Apasionado por el análisis de datos, data mining y la visualización de la información, me gusta formar parte de proyectos interesantes y desafiantes. Siempre estoy buscando aprender nuevas técnicas y herramientas para crecer como profesional.
 
 ---
 
 ## 🛠️ Habilidades y Tecnologías
 - **Lenguajes:** Python, SQL, R, entre otros
 - **Técnicas y Métodos:** ETL, Diseño de bases de datos, Data Warehousing, Análisis estadístico y Modelos predictivos
-- **Bibliotecas:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- **Bibliotecas:** FastF1, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 ---
 
