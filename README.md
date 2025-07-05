@@ -11,20 +11,21 @@
 
 - Análisis de las búsquedas en el catálogo en línea de la Biblioteca de la FIUNER [📚 Análisis de búsquedas en el Sistema Koha](https://github.com/Ayrton-Milessi/Practica-Academica)
 
+## 🔍 Más sobre mí
 - 🌱 Actualmente me sigo formando en **Arquitectura en la Nube**
 
 - 📁 Mira mis credenciales: [Certificados](https://www.credly.com/users/ayrton-milessi)
 
 - 📫 Comunícate conmigo: **ayrton4210@gmail.com**
 
-<h3 align="left">Conecta conmigo:</h3>
+## 💼 Conecta conmigo
 <p align="left">
 <a href="https://www.linkedin.com/in/ayrton-milessi/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayrton Milessi" height="30" width="40" />
 </a>
 </p>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
+## 🧰 Lenguajes y Herramientas
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -33,7 +34,7 @@
 
   <!-- R -->
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" width="40" height="40"/>
   </a>
 
   <!-- PostgreSQL -->
@@ -43,7 +44,7 @@
 
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" width="40" height="40"/>
   </a>
 
   <!-- Pandas -->
@@ -68,7 +69,7 @@
 
  <!-- FastF1 -->
   <a href="https://github.com/theOehrly/Fast-F1" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/theOehrly/Fast-F1/main/docs/logo/Fast-F1%20Logo%20Horizontal%20White.svg" alt="FastF1" width="100" height="40"/>
+    <img src="https://raw.githubusercontent.com/theOehrly/Fast-F1/main/docs/logo/Fast-F1%20Logo%20Horizontal%20White.svg" alt="FastF1" width="40" height="40"/>
   </a>
 
   <!-- Git -->
@@ -79,10 +80,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayrton-milessi&show_icons=true&locale=en&layout=compact" alt="ayrton-milessi" /></p>
 
-<br><br><br><br>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayrton-milessi&show_icons=true&locale=en" alt="ayrton-milessi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayrton-milessi&" alt="ayrton-milessi" /></p>
-
-¡Gracias por visitar mi perfil! 😊
+<h3 align="center">¡Gracias por visitar mi perfil! 🚀</h3>
