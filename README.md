@@ -22,57 +22,7 @@
 - 📩 Comunícate conmigo: **ayrton4210@gmail.com**
 
 ## 🧰 Lenguajes y Herramientas
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
-  </a>
-
-  <!-- R -->
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  </a>
-
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"/>
-  </a>
-
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  </a>
-
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas"/>
-  </a>
-
-  <!-- Matplotlib -->
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib"/>
-  </a>
-
-  <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"/>
-  </a>
-
-  <!-- Scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"/>
-  </a>
-
- <!-- FastF1 -->
-  <a href="https://github.com/theOehrly/Fast-F1" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/theOehrly/Fast-F1/main/docs/logo/Fast-F1%20Logo%20Horizontal%20White.svg" alt="FastF1"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/>
-  </a>
-</p>
+<p align="left"> <!-- Python --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <!-- R --> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/> <!-- PostgreSQL --> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <!-- Power BI --> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> <!-- Pandas --> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <!-- Matplotlib --> <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/> <!-- Seaborn --> <img src="https://img.shields.io/badge/Seaborn-5A5A5A?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/> <!-- Scikit-learn --> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/> <!-- FastF1 --> <img src="https://img.shields.io/badge/FastF1-black?style=for-the-badge&logo=github&logoColor=white" alt="FastF1"/> <!-- Git --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayrton-milessi&show_icons=true&locale=en&layout=compact" alt="ayrton-milessi" /></p>
 
