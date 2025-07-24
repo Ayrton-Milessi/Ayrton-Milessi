@@ -1,8 +1,10 @@
 <h1 align="center">Hola 👋, soy Ayrton Milessi</h1>
-<h3 align="center">
-  Soy estudiante avanzado de la Tecnicatura en Procesamiento y Explotación de Datos. Me apasiona analizar datos, desarrollar algoritmos de Data Mining y Machine Learning, y gestionar bases de datos relacionales y NoSQL.<br><br>
+<p>
+  Soy estudiante avanzado de la Tecnicatura en Procesamiento y Explotación de Datos. Me apasiona analizar datos, desarrollar algoritmos de Data Mining y Machine Learning, y gestionar bases de datos relacionales y NoSQL.
+</p>
+<p>
   Creo que la visualización de la información es clave para transmitir los insights que los datos pueden ofrecer. Me encanta formar parte de proyectos interesantes y desafiantes, y siempre estoy buscando aprender nuevas técnicas y herramientas para seguir creciendo como profesional.
-</h3>
+</p>
 
 ## 🚀 Proyectos Destacados
 - Exploración de datos en las temporadas 2024 y 2025. [🏎️ Análisis de Datos de Fórmula 1](https://github.com/Ayrton-Milessi/Formula-1)
