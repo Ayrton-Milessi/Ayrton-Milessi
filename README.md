@@ -14,7 +14,7 @@
 - Análisis de las búsquedas en el catálogo en línea de la Biblioteca de la FIUNER [📚 Análisis de búsquedas en el Sistema Koha](https://github.com/Ayrton-Milessi/Practica-Academica)
 
 ## 🔍 Más sobre mí
-- 🌱 Actualmente me sigo formando en **Arquitectura en la Nube**
+- 🌱 Actualmente me sigo formando en **Arquitectura en la Nube**, **HTML** y **JavaScript**
 
 - 📁 Mira mis credenciales: [Certificados](https://www.credly.com/users/ayrton-milessi)
 
