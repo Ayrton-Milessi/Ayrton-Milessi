@@ -49,8 +49,4 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayrton-milessi&show_icons=true&locale=en" alt="ayrton-milessi" />
-</div>
-
 <h3 align="center">¡Gracias por visitar mi perfil! 🚀</h3>
