@@ -21,7 +21,7 @@
 
 - Implementación de un Data Warehouse para analizar logs de un servidor Apache [🗂️ Análisis de registros de servidor](https://github.com/Adrielthu/Analisis_de_logs)
 
-- Desarrollo de mi página web [💻 Página Web personal](https://github.com/Ayrton-Milessi/mi_sitio_web)
+- Desarrollo de mi página web [💻 Página Web personal](https://ayrton-milessi.github.io/mi_sitio_web/)
 
 ## 🔍 Más sobre mí
 - 🌱 Actualmente me sigo formando en **Arquitectura en la Nube (AWS)**
